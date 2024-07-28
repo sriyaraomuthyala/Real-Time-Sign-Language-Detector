@@ -52,7 +52,7 @@ In the real-time detection phase:
 
 ## Model Performance
 
-The final trained model achieved an accuracy of approximately **93.33%** on the test dataset. This high accuracy indicates the model's effectiveness in recognizing and interpreting ASL gestures accurately.
+The final trained model achieved an accuracy of approximately **98.89%** on the test dataset. This high accuracy indicates the model's effectiveness in recognizing and interpreting ASL gestures accurately.
 
 ### Usage
 
